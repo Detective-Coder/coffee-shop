@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CoffeeShop",
+    "\\CoffeeShop\\Controllers",
+    "\\CoffeeShop\\Models",
+    "\\CoffeeShop\\Repositories",
+    "\\js-app"
+  ],
+  "SelectedNode": "\\CoffeeShop\\Repositories\\IBeanVarietyRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
